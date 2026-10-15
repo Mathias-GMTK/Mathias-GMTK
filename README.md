@@ -1,7 +1,7 @@
 ### Olá, Bem-Vindo!
 
 
-- Me chamo Mathias Gruber Martinhuk, tenho 23 anos e moro em joinville - SC. 
+- Me chamo Mathias, tenho 23 anos e moro em joinville - SC. 
 - Cursando Engenharia de Software pela univille.
 
 <br>
